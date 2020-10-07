@@ -64,11 +64,11 @@
 <a href="https://github.com/mrlaboratory">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrlaboratory&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/mrlaboratory/FlutterExampleApps">
+<a href="https://github.com/mrlaboratory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrlaboratory&repo=FlutterExampleApps&theme=light" />
 
 </a>
-<a href="https://github.com/mrlaboratory/VelocityX">
+<a href="https://github.com/mrlaboratory">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrlaboratory&repo=VelocityX&theme=light" />
 </a>
 
