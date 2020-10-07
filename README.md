@@ -30,19 +30,19 @@
 <br/>
 
 
-
+- 📝 I regulary write articles on https://www.mrlaboratory.info
 - 🔭 I’m currently working on [MR Laboratory](https://mrlaboratory.info/).
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently learning more about WebDevelopment.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mrlaboratorypro).
 - 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @mrlaboratory2](https://twitter.com/mrlaboratory2) , [Youtube - @mrlaboratorypro](https://youtube.com/mrlaboratorypro)
+- 💬 Ask me about webdevelopment or any tech related stuff.
+- 📫 How to reach me: [Twitter@mrlaboratory2](https://twitter.com/mrlaboratory2) , [Youtube@mrlaboratorypro](https://youtube.com/mrlaboratorypro)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: md_mijan_mr](https://img.shields.io/twitter/follow/md_mijan_mr?style=social)](https://twitter.com/md_mijan_mr)
 [![Linkedin: mrlaboratory](https://img.shields.io/badge/-mrlaboratory-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrlaboratory/)](https://www.linkedin.com/in/mrlaboratory/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/mrlaboratory)
+[![GitHub iampawan](https://img.shields.io/github/followers/mrlaboratory?label=follow&style=social)](https://github.com/mrlaboratory)
 [![website](https://img.shields.io/badge/PortfolioWebsite-mrlaboratory.com-2648ff?style=flat-square&logo=google-chrome)](https://www.mrlaboratory.com/)
 
 
