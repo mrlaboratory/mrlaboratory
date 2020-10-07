@@ -41,7 +41,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: md_mijan_mr](https://img.shields.io/twitter/follow/md_mijan_mr?style=social)](https://twitter.com/md_mijan_mr)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: mrlaboratory](https://img.shields.io/badge/-mrlaboratory-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrlaboratory/)](https://www.linkedin.com/in/mrlaboratory/)
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
