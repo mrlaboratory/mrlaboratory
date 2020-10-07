@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 👋 I'm <a target="_blank" href="https://facebook.com/mdmijanurrahaman.mr">Md Mijanur Rahaman</a></h1>
 <h1 align="center">Founder & CEO of <a target="_blank" href="https://facebook.com/mrlaboratory">MR Laboratory</a></h1>
 <div class="cenetr" style="width:200px;height:200px;margin:0 auto;border-radius: 50%; overflow: hidden;">
-    <img src="https://graph.facebook.com/mdmijanurrahaman.mr/picture?type=large" style="width:100%;height:100%" alt="">
+    <img src="https://graph.facebook.com/mdmijanurrahaman.mr/picture?type=large" style="width:100%;height:100%;border-radius: 50%;" alt="">
 </div>
 <h3 align="center">Doing what you like is freedom. Liking what you do is happiness!</h3>
 
