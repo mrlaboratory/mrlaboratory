@@ -2,31 +2,20 @@
 <h1 align="center">Hi 👋, I'm </h1>
 <h1 align="center">Founder and CEO of MR Laboratory</h1>
 <h3 align="center">Doing what you like is freedom. Liking what you do is happiness!</h3>
-
 Here are some ideas to get you started:
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 .
 ## Hello, I'm  [Md Mijanur Rahaman!](https://facebook.com/mdmijanurrahaman.mr)👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-<a href="https://twitter.com/imthepk">
+<a href="https://twitter.com/mrlaboratory">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepk">
+<a href="https://linkedin.com/in/mrlaboratory">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/mrlaboratory">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/imthepk">
