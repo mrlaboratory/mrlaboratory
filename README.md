@@ -36,6 +36,7 @@
 
 
 - 📝 I regulary write articles on https://www.mrlaboratory.info
+- 📝 I regulary Make videos on [Youtube](https://youtube.com/mrlaboratorypro)
 - 🔭 I’m currently working on [MR Laboratory](https://mrlaboratory.info/).
 - 🌱 I’m currently learning more about WebDevelopment.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mrlaboratorypro).
