@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋 👋 I'm <a target="_blank" href="https://facebook.com/mdmijanurrahaman.mr">Md Mijanur Rahaman</a></h1>
-<h1 align="center">Founder and CEO of MR Laboratory</h1>
+<h1 align="center">Founder & CEO of <a target="_blank" href="https://facebook.com/mrlaboratory">MR Laboratory</a></h1>
 <h3 align="center">Doing what you like is freedom. Liking what you do is happiness!</h3>
-Here are some ideas to get you started:
-## Hello, I'm  [Md Mijanur Rahaman!](https://facebook.com/mdmijanurrahaman.mr)👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
