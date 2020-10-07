@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 .
-## Hola, I'm [Pawan Kumar!](https://facebook.com/mdmijanurrahaman.mr) 👋
+## Hello, I'm [Md Mijanur Rahaman!](https://facebook.com/mdmijanurrahaman.mr) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
@@ -47,12 +47,12 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
+- 🔭 I’m currently working on [MR Laboratory](https://mrlaboratory.info/).
 - 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mrlaboratorypro).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 📫 How to reach me: [Twitter - @mrlaboratory2](https://twitter.com/mrlaboratory2) , [Youtube - @mrlaboratorypro](https://youtube.com/mrlaboratorypro)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
