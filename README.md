@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 👋 I'm <a target="_blank" href="https://facebook.com/mdmijanurrahaman.mr">Md Mijanur Rahaman</a></h1>
-<h1 align="center">Founder & CEO of <a target="_blank" href="https://facebook.com/mrlaboratory">MR Laboratory</a></h1>
+<h1 align="center">Founder & CEO of <a target="_blank" href="https://www.google.com/search?q=mr+laboratory&oq=mr+laboratory&aqs=chrome.0.69i59l3j69i60l3j69i65l2.5848j0j1&sourceid=chrome&ie=UTF-8">MR Laboratory</a></h1>
 <div class="cenetr" style="width:200px;height:200px;margin:0 auto;border-radius: 50%; overflow: hidden;">
     <img src="/mijan.png" style="width:100%;height:100%;border-radius: 50%;" alt="">
 </div>
