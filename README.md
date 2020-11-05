@@ -5,7 +5,6 @@
 </div>
 
 
-
 <h3 align="center">Doing what you like is freedom. Liking what you do is happiness!</h3>
 <h3 align="center">I try to do what people can't do!</h3>
 
