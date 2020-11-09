@@ -3,6 +3,7 @@
 <div align="center" class="center" style="width:200px;height:200px;margin:0 auto;border-radius: 50%; overflow: hidden;align-items: center;">
     <img src="https://mrlaboratory.github.io/img/Mijan_Round.png" style="width:100%;height:100%" alt="">
 </div>
+
 <h3 align="center">Doing what you like is freedom. Liking what you do is happiness!</h3>
 <h3 align="center">I try to do what people can't do!</h3>
 
