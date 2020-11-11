@@ -3,7 +3,6 @@
 <div align="center" class="center" style="width:200px;height:200px;margin:0 auto;border-radius: 50%; overflow: hidden;align-items: center;">
     <img src="https://mrlaboratory.github.io/img/Mijan_Round.png" style="width:100%;height:100%" alt="">
 </div>
-
 <h3 align="center">Doing what you like is freedom. Liking what you do is happiness!</h3>
 <h3 align="center">I try to do what people can't do!</h3>
 
@@ -53,6 +52,7 @@
 [![Linkedin: mrlaboratory](https://img.shields.io/badge/-mrlaboratory-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrlaboratory/)](https://www.linkedin.com/in/mrlaboratory/)
 [![GitHub iampawan](https://img.shields.io/github/followers/mrlaboratory?label=follow&style=social)](https://github.com/mrlaboratory)
 [![website](https://img.shields.io/badge/PortfolioWebsite-mrlaboratory.com-2648ff?style=flat-square&logo=google-chrome)](https://www.mrlaboratory.com/)
+
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
