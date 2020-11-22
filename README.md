@@ -40,6 +40,7 @@
 <br/>
 
 - 📝 I regulary write articles on [www.mrlaboratory.info](https://www.mrlaboratory.info) 
+- 📝 I regulary write articles on [www.mrlaboratory.com](https://www.mrlaboratory.com) 
 - 📝 I regulary Make videos on [Youtube](https://www.youtube.com/c/MRLaboratorypro/videos)
 - 🔭 I’m currently working on [MR Laboratory](https://mrlaboratory.info/).
 - 🌱 I’m currently learning more about WebDevelopment.
