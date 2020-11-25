@@ -32,9 +32,6 @@
 </a>
 
 
-
-
-
 <br/>
 <br/>
 
@@ -67,9 +64,11 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrlaboratory&show_icons=true" alt="mrlaboratory" /> </p>
 </a>
 
+
 <a align="center" href="https://github.com/mrlaboratory">
 <p align="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlaboratory&theme=light&hide_langs_below=1" /> </p>
 </a>
+
 
 <div align="center">
 
