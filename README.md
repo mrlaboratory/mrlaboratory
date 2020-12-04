@@ -4,9 +4,10 @@
     <img src="https://mrlaboratory.github.io/img/Mijan_Round.png" style="width:100%;height:100%" alt="">
 </div>
 
+
+
 <h3 align="center">Doing what you like is freedom. Liking what you do is happiness!</h3>
 <h3 align="center">I try to do what people can't do!</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlaboratory&label=Views&color=blue&style=plastic" alt="mrlaboratory" /> </p>
 
@@ -60,13 +61,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 <a align="center" href="https://github.com/mrlaboratory">
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrlaboratory&show_icons=true" alt="mrlaboratory" /> </p>
 </a>
-
-
 <a align="center" href="https://github.com/mrlaboratory">
 <p align="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlaboratory&theme=light&hide_langs_below=1" /> </p>
 </a>
@@ -76,7 +75,6 @@
 
 My top project 🧡💛💙💜
 - The Best blogger template [See Now](https://mrlaboratory.github.io/the-best-blogger-template/) 
-
 
 
 </div>
