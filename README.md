@@ -75,7 +75,7 @@ My top project 🧡💛💙💜
 - The Best blogger template [See Now](https://mrlaboratory.github.io/the-best-blogger-template/) 
 - Cocoen Deag [See Now](https://mrlaboratory.github.io/CocoenDeag/) 
 - Calculator 2 [See Now](https://mrlaboratory.github.io/calculator2/) 
-
+- Embad Site 2 [See Now](https://mrlaboratory.github.io/embadsite/) 
 
 
 </div>
