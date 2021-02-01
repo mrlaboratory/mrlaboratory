@@ -42,11 +42,8 @@
 - 🔭 I’m currently working on [MR Laboratory](https://mrlaboratory.info/).
 - 🌱 I’m currently learning more about WebDevelopment.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mrlaboratorypro).
-- 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about webdevelopment or any tech related stuff.
 - 📫 How to reach me: [Twitter@mrlaboratory2](https://twitter.com/mrlaboratory2) , [Youtube@mrlaboratorypro](https://youtube.com/mrlaboratorypro)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: md_mijan_mr](https://img.shields.io/twitter/follow/md_mijan_mr?style=social)](https://twitter.com/md_mijan_mr)
 [![Linkedin: mrlaboratory](https://img.shields.io/badge/-mrlaboratory-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrlaboratory/)](https://www.linkedin.com/in/mrlaboratory/)
