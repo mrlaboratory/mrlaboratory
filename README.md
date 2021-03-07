@@ -75,6 +75,8 @@ My top project 🧡💛💙💜
 - Embad Site [See Now](https://mrlaboratory.github.io/embadsite/) 
 - Blogger RSS [See Now](https://mrlaboratory.github.io/bloggerRssFeed/)
 - Get Youtube video info [See Now](https://mrlaboratory.github.io/Get-Youtube-video-information/)
+- CV [See Now](https://template7.mrlaboratory.info/)
+
 
 
 
