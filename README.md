@@ -77,7 +77,7 @@ My top project 🧡💛💙💜
 - Get Youtube video info [See Now](https://mrlaboratory.github.io/Get-Youtube-video-information/)
 - CV [See Now](https://template7.mrlaboratory.info/)
 - - Images slider [See Now](https://template10.mrlaboratory.info/)
-
+-  QR Code Generator [See Now](https://mrlaboratory.github.io/qr-scanner/)
 
 
 
