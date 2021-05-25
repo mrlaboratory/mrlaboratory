@@ -79,9 +79,7 @@ My top project 🧡💛💙💜
 - - Images slider [See Now](https://template10.mrlaboratory.info/)
 -  QR Code Generator [See Now](https://mrlaboratory.github.io/qr-scanner/)
 -  Multi Copier by simple js [See Now](https://mrlaboratory.github.io/multi-copier/)
-
-http://devmijan.ezyro.com/
-http://devmijan.epizy.com/
+-  Onclick Download Link maker for Google drive [See Now](https://mrlaboratory.github.io/One-Click-Downloder-Google-Drive/)
 
 
 </div>
