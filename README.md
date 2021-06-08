@@ -82,7 +82,7 @@
 -  QR Code Generator [See Now](https://mrlaboratory.github.io/qr-scanner/)
 -  Multi Copier by simple js [See Now](https://mrlaboratory.github.io/multi-copier/)
 -  Onclick Download Link maker for Google drive [See Now](https://mrlaboratory.github.io/One-Click-Downloder-Google-Drive/)
-
+-  Current URL QR Scanner Script for blogger [See Now](https://mrlaboratory.github.io/qrcode-for-blogger/)
 
 </div>
 
