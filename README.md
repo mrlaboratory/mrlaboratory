@@ -79,7 +79,7 @@
 - Get Youtube video info [See Now](https://mrlaboratory.github.io/Get-Youtube-video-information/)
 - CV [See Now](https://template7.mrlaboratory.info/)
 - - Images slider [See Now](https://template10.mrlaboratory.info/)
--  QR Code Generator [See Now](https://mrlaboratory.github.io/qr-scanner/)
+-  QR Code Generator [See Now](https://qr.mrlaboratory.info/)
 -  Multi Copier by simple js [See Now](https://mrlaboratory.github.io/multi-copier/)
 -  Onclick Download Link maker for Google drive [See Now](https://mrlaboratory.github.io/One-Click-Downloder-Google-Drive/)
 -  Current URL QR Scanner Script for blogger [See Now](https://mrlaboratory.github.io/qrcode-for-blogger/)
