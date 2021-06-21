@@ -84,7 +84,7 @@
 -  Onclick Download Link maker for Google drive [See Now](https://mrlaboratory.github.io/One-Click-Downloder-Google-Drive/)
 -  Current URL QR Scanner Script for blogger [See Now](https://mrlaboratory.github.io/qrcode-for-blogger/)
 -  Online Images Upload and get image link [See Now](https://mrlaboratory.github.io/ImagesUploadGetLink/)
- -  mrlboratory.info Sitemap [See Now](https://mrlaboratory.github.io/sitemap/)
+ -  mrlaboratory.info Sitemap [See Now](https://mrlaboratory.github.io/sitemap/)
 
 
 
