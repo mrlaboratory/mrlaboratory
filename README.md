@@ -87,6 +87,7 @@
  -  mrlaboratory.info Sitemap [See Now](https://mrlaboratory.github.io/sitemap/)
 -  blockquote Copy [See Now](https://mrlaboratory.github.io/blockquoteCopy/)
 -  YT-Video-Downloader [See Now](https://mrlaboratory.github.io/YT-Downloader/)
+-  Design Publisher Blogger Template [See Now](https://mrlaboratory.github.io/design-publisher/)
 
 
 
