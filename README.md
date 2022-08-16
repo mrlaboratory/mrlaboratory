@@ -39,7 +39,7 @@
 - 📝 I regulary write articles on [www.mrlaboratory.info](https://www.mrlaboratory.info) 
 - 📝 I regulary write articles on [www.mrlaboratory.com](https://www.mrlaboratory.com) 
 - 📝 I regulary Make videos on [Youtube](https://www.youtube.com/c/MRLaboratorypro/videos)
-- 🔭 I’m currently working on [MR Laboratory](https://mrlaboratory.info/).
+- 🔭 I’m currently working on [NeotericIT](https://www.neotericit.com/).
 - 🌱 I’m currently learning more about WebDevelopment.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mrlaboratorypro).
 - 💬 Ask me about webdevelopment or any tech related stuff.
