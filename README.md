@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋 👋 I'm <a target="_blank" href="https://facebook.com/mdmijanurrahaman.mr">Md Mijanur Rahaman</a></h1>
+Experienced MERN stack developer with a passion for creating robust and dynamic web applications. Proficient in MongoDB, Express.js, React.js, and Node.js, I specialize in building scalable and user-friendly solutions. With a strong foundation in front-end and back-end development, I thrive in collaborating with cross-functional teams to deliver high-quality software products. Always staying updated with the latest technologies and best practices, I am dedicated to continuously improving my skills and delivering exceptional results. Let's connect and discuss how I can contribute to your next project.
 <h1 align="center">Founder & CEO of <a target="_blank" href="https://www.google.com/search?q=mr+laboratory&oq=mr+laboratory&aqs=chrome.0.69i59l3j69i60l3j69i65l2.5848j0j1&sourceid=chrome&ie=UTF-8">MR Laboratory</a></h1>
 <div align="center" class="center" style="width:200px;height:200px;margin:0 auto;border-radius: 50%; overflow: hidden;align-items: center;">
     
