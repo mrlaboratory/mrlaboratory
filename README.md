@@ -7,8 +7,8 @@ Introduction
 
 Contact
 Email: [mrlaboratory23@gmail.com]
-LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/mijanurrahaman)]
-Portfolio: [[Your Portfolio Website](https://mrlaboratory.github.io/)]
+LinkedIn: [[ LinkedIn Profile](https://www.linkedin.com/in/mijanurrahaman)]
+Portfolio: [[ Portfolio Website](https://mrlaboratory.github.io/)]
 
 
 
