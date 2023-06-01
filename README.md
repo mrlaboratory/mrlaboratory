@@ -11,6 +11,31 @@ LinkedIn: [[ LinkedIn Profile](https://www.linkedin.com/in/mijanurrahaman)]
 Portfolio: [[ Portfolio Website](https://mrlaboratory.github.io/)]
 
 
+## Top Project 🧡💛💙💜
+
+- **Dish Diary Project** - A web application for keeping track of your favorite dishes. [Live Link](https://dish-diary.web.app/)
+
+## Other Projects
+
+- **The Best Blogger Template** - A stunning template for bloggers. [See Now](https://mrlaboratory.github.io/the-best-blogger-template/)
+- **Cocoen Deag** - An interactive image comparison slider. [See Now](https://mrlaboratory.github.io/CocoenDeag/)
+- **Calculator** - A simple calculator web app. [See Now](https://mrlaboratory.github.io/calculator2/)
+- **Embad Site** - A website for embedding external content. [See Now](https://mrlaboratory.github.io/embadsite/)
+- **Blogger RSS** - Get RSS feeds from any Blogger blog. [See Now](https://mrlaboratory.github.io/bloggerRssFeed/)
+- **Get Youtube Video Info** - Retrieve information about a YouTube video. [See Now](https://mrlaboratory.github.io/Get-Youtube-video-information/)
+- **CV** - A stylish online CV template. [See Now](https://template7.mrlaboratory.info/)
+- **Images Slider** - Showcase your images with this slider. [See Now](https://template10.mrlaboratory.info/)
+- **QR Code Generator** - Generate QR codes easily. [See Now](https://qr.mrlaboratory.info/)
+- **Multi Copier by Simple JS** - Copy multiple text snippets with ease. [See Now](https://mrlaboratory.github.io/multi-copier/)
+- **Onclick Download Link Maker for Google Drive** - Generate one-click download links for Google Drive. [See Now](https://mrlaboratory.github.io/One-Click-Downloder-Google-Drive/)
+- **Current URL QR Scanner Script for Blogger** - Add a QR code scanner to your Blogger site. [See Now](https://mrlaboratory.github.io/qrcode-for-blogger/)
+- **Online Images Upload and Get Image Link** - Upload images and get shareable links. [See Now](https://mrlaboratory.github.io/ImagesUploadGetLink/)
+- **mrlaboratory.info Sitemap** - Generate a sitemap for your website. [See Now](https://mrlaboratory.github.io/sitemap/)
+- **Blockquote Copy** - Copy text within blockquotes easily. [See Now](https://mrlaboratory.github.io/blockquoteCopy/)
+- **YT-Video-Downloader** - Download videos from YouTube. [See Now](https://mrlaboratory.github.io/YT-Downloader/)
+- **Design Publisher Blogger Template** - A modern template for Blogger. [See Now](https://mrlaboratory.github.io/design-publisher/)
+- **Donation Site Design** - A visually appealing design for donation sites. [See Now](https://mrlaboratory.github.io/donate-site/)
+
 
 <h1 align="center">Founder & CEO of <a target="_blank" href="https://www.google.com/search?q=mr+laboratory&oq=mr+laboratory&aqs=chrome.0.69i59l3j69i60l3j69i65l2.5848j0j1&sourceid=chrome&ie=UTF-8">MR Laboratory</a></h1>
 <div align="center" class="center" style="width:200px;height:200px;margin:0 auto;border-radius: 50%; overflow: hidden;align-items: center;">
@@ -93,31 +118,6 @@ Portfolio: [[ Portfolio Website](https://mrlaboratory.github.io/)]
     # My Projects
 
 Welcome to my collection of projects! Below you will find a list of my top projects along with links to explore them. Feel free to check them out and see what I've been working on.
-
-## Top Project 🧡💛💙💜
-
-- **Dish Diary Project** - A web application for keeping track of your favorite dishes. [Live Link](https://dish-diary.web.app/)
-
-## Other Projects
-
-- **The Best Blogger Template** - A stunning template for bloggers. [See Now](https://mrlaboratory.github.io/the-best-blogger-template/)
-- **Cocoen Deag** - An interactive image comparison slider. [See Now](https://mrlaboratory.github.io/CocoenDeag/)
-- **Calculator** - A simple calculator web app. [See Now](https://mrlaboratory.github.io/calculator2/)
-- **Embad Site** - A website for embedding external content. [See Now](https://mrlaboratory.github.io/embadsite/)
-- **Blogger RSS** - Get RSS feeds from any Blogger blog. [See Now](https://mrlaboratory.github.io/bloggerRssFeed/)
-- **Get Youtube Video Info** - Retrieve information about a YouTube video. [See Now](https://mrlaboratory.github.io/Get-Youtube-video-information/)
-- **CV** - A stylish online CV template. [See Now](https://template7.mrlaboratory.info/)
-- **Images Slider** - Showcase your images with this slider. [See Now](https://template10.mrlaboratory.info/)
-- **QR Code Generator** - Generate QR codes easily. [See Now](https://qr.mrlaboratory.info/)
-- **Multi Copier by Simple JS** - Copy multiple text snippets with ease. [See Now](https://mrlaboratory.github.io/multi-copier/)
-- **Onclick Download Link Maker for Google Drive** - Generate one-click download links for Google Drive. [See Now](https://mrlaboratory.github.io/One-Click-Downloder-Google-Drive/)
-- **Current URL QR Scanner Script for Blogger** - Add a QR code scanner to your Blogger site. [See Now](https://mrlaboratory.github.io/qrcode-for-blogger/)
-- **Online Images Upload and Get Image Link** - Upload images and get shareable links. [See Now](https://mrlaboratory.github.io/ImagesUploadGetLink/)
-- **mrlaboratory.info Sitemap** - Generate a sitemap for your website. [See Now](https://mrlaboratory.github.io/sitemap/)
-- **Blockquote Copy** - Copy text within blockquotes easily. [See Now](https://mrlaboratory.github.io/blockquoteCopy/)
-- **YT-Video-Downloader** - Download videos from YouTube. [See Now](https://mrlaboratory.github.io/YT-Downloader/)
-- **Design Publisher Blogger Template** - A modern template for Blogger. [See Now](https://mrlaboratory.github.io/design-publisher/)
-- **Donation Site Design** - A visually appealing design for donation sites. [See Now](https://mrlaboratory.github.io/donate-site/)
 
 Feel free to explore any of these projects to learn more about them. Enjoy!
 
