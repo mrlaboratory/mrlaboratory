@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋 👋 I'm <a target="_blank" href="https://facebook.com/mdmijanurrahaman.mr">Md Mijanur Rahaman</a></h1>
 Hello! I'm Md Mijanur Rahaman, a passionate MERN stack developer with a strong focus on building scalable and efficient web applications. I specialize in utilizing the MERN (MongoDB, Express.js, React.js, Node.js) stack to create robust and user-friendly solutions.
-
-Experienced MERN stack developer with a passion for creating robust and dynamic web applications. Proficient in MongoDB, Express.js, React.js, and Node.js, I specialize in building scalable and user-friendly solutions. With a strong foundation in front-end and back-end development, I thrive in collaborating with cross-functional teams to deliver high-quality software products. Always staying updated with the latest technologies and best practices, I am dedicated to continuously improving my skills and delivering exceptional results. Let's connect and discuss how I can contribute to your next project.
+ I thrive in collaborating with cross-functional teams to deliver high-quality software products. Always staying updated with the latest technologies and best practices, I am dedicated to continuously improving my skills and delivering exceptional results. Let's connect and discuss how I can contribute to your next project.
 Introduction
 
 
