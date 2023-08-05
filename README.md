@@ -46,7 +46,7 @@ Portfolio: [[ Portfolio Website](https://mrlaboratory.github.io/)]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlaboratory&label=Views&color=blue&style=plastic" alt="mrlaboratory" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fancytext&label=Views&color=blue&style=plastic" alt="fancytext" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=birthdaycard&label=Views&color=blue&style=plastic" alt="birthdaycard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imageuploader&label=Views&color=blue&style=plastic" alt="imageuploader" /> </p>
 
 
 <a href="https://www.facebook.com/mdmijanurrahaman.mr/">
