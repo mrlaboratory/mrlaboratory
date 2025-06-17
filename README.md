@@ -11,9 +11,11 @@ Portfolio: [[ Portfolio Website](https://mrlaboratory.github.io/)]
 
 
 ## Top live Project 🧡💛💙💜
-- **NFC Deck** - A Complate NFC Profile and Order Managment System. [Live Link](https://www.nfcdeck.com/)
-- **Bismillah IT House** - A Complate Ecommerce & Stock Managment System. [Live Link](https://www.bismillahithouse.com/)
-- **Neoteric IT APP** - Automated working System. [Live Link](https://app.neotericit.com/)
+- **NFC Deck** - A Complate NFC Profile and Order Managment System. [Live Link : NFC Deck](https://www.nfcdeck.com/)
+- **NFC Info** - A Complate NFC Profile and User Managment Another Project. [Live Link : NFC Info](https://nfc.info.bd/)
+- **Bismillah IT House** - A Complate Ecommerce & Stock Managment System. [Live Link : IT House](https://www.bismillahithouse.com/)
+- **Neoteric IT APP** - Automated working System. [Live Link : Ai APP ](https://app.neotericit.com/)
+- **Shanirhat.com** - A Local Ecommerce Multivendor Management System. [Live Link](https://shantirhat.com/)
 
 
 ## Other Projects
