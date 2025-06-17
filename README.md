@@ -10,9 +10,11 @@ LinkedIn: [[ LinkedIn Profile](https://www.linkedin.com/in/mijanurrahaman)]
 Portfolio: [[ Portfolio Website](https://mrlaboratory.github.io/)]
 
 
-## Top Project 🧡💛💙💜
+## Top live Project 🧡💛💙💜
+- **NFC Deck** - A Complate NFC Profile and Order Managment System. [Live Link](https://www.nfcdeck.com/)
+- **Bismillah IT House** - A Complate Ecommerce & Stock Managment System. [Live Link](https://www.bismillahithouse.com/)
+- **Neoteric IT APP** - Automated working System. [Live Link](https://app.neotericit.com/)
 
-- **Dish Diary Project** - A web application for keeping track of your favorite dishes. [Live Link](https://dish-diary.web.app/)
 
 ## Other Projects
 
